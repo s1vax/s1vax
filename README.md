@@ -7,7 +7,7 @@
 ---
 
 ### 💻 Tech Stack
- *Languages*
+ **Languages**
  
 ![VHDL](https://img.shields.io/badge/VHDL-005086?style=for-the-badge&logo=vhdl&logoColor=white)
 ![C](https://img.shields.io/badge/c-00747D?style=for-the-badge&logo=&logoColor=white)
@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-128722?style=for-the-badge&logo=python&logoColor=white)
 
 
-*Electronics Software*
+**Electronics Software**
 
 ![ModelSim](https://img.shields.io/badge/ModelSim-870371?style=for-the-badge&logo=modelsim&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-33027A?style=for-the-badge&logo=octave&logoColor=white)
@@ -26,7 +26,7 @@
 
 
 
-*3D Software*
+**3D Software**
 
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-B84B00?style=for-the-badge&logo=fusion&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-696969?style=for-the-badge&logo=solidworks&logoColor=white)
