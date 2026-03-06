@@ -14,7 +14,6 @@
 ![C++](https://img.shields.io/badge/c++-009BB0?style=for-the-badge&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-128722?style=for-the-badge&logo=python&logoColor=white)
 
----
 
 Electronics Software
 
@@ -25,7 +24,7 @@ Electronics Software
 ![KiCAD](https://img.shields.io/badge/KiCAD-BA811E?style=for-the-badge&logo=kicad&logoColor=white)
 ![MultiSim](https://img.shields.io/badge/MultiSim-A30000?style=for-the-badge&logo=multisim&logoColor=white)
 
---- 
+
 
 3D Software
 
