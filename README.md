@@ -15,6 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-128722?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
 Electronics Software
 
 ![ModelSim](https://img.shields.io/badge/ModelSim-870371?style=for-the-badge&logo=modelsim&logoColor=white)
@@ -23,6 +24,8 @@ Electronics Software
 ![Vivado](https://img.shields.io/badge/Vivado-7D2C00?style=for-the-badge&logo=vivado&logoColor=white)
 ![KiCAD](https://img.shields.io/badge/KiCAD-BA811E?style=for-the-badge&logo=kicad&logoColor=white)
 ![MultiSim](https://img.shields.io/badge/MultiSim-A30000?style=for-the-badge&logo=multisim&logoColor=white)
+
+--- 
 
 3D Software
 
