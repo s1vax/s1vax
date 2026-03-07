@@ -31,7 +31,7 @@ Electronics Software
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-B84B00?style=for-the-badge&logo=fusion&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-696969?style=for-the-badge&logo=solidworks&logoColor=white)
 
-Certifications
+Certifications & Badges
 
 ![CCNA](https://img.shields.io/badge/CCNA-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
 ![CCNP](https://img.shields.io/badge/CCNP-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
