@@ -53,16 +53,15 @@ Certifications & Badges
 
 
 <div align="left">
- </a
   <a href="https://www.linkedin.com/in/maximiliano-rodriguez-arg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-590000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a
+  </a>
    <a href="https://mmaxirod8.my.canva.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-590000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a
+   </a>
    <a href="https://maximiliano-rodriguez.gitbook.io/maximiliano-rodriguez/" target="_blank">
     <img src="https://img.shields.io/badge/Writeups-590000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a
+   </a>
 
 <img align="right" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="right" alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github&theme=dark" style="padding-right:10px;" />
