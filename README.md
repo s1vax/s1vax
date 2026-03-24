@@ -2,7 +2,7 @@
 
 ### 📌 About Me
 
- **I am a passionate developer focused on** `hardware description languages` , `embedded systems`, `cybersecurity`, **and** `3D design`. **Currently, I am exploring the performance limits of FPGAs, functional 3D modeling, and key fundamentals of information security.**
+ **I am a passionate developer focused on** `Hardware Description Languages` , `Embedded Systems`, `Hardware Hacking`, `Cybersecurity`, **and** `3D Design`. **Currently, I am exploring the performance limits of FPGAs, functional 3D modeling, and key fundamentals of information security.**
 
 ---
 
