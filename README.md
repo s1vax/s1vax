@@ -33,11 +33,12 @@ Electronics Software
 
 Certifications & Badges
 
-![CCNA](https://img.shields.io/badge/CCNA-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-FFFFFF?style=for-the-badge&logo=ccna&logoColor=white)
+![CCNP](https://img.shields.io/badge/CCNP-FFFFFF?style=for-the-badge&logo=ccnp&logoColor=white)
 ![DEVNET](https://img.shields.io/badge/DEVNET-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Jr. Cybersecurity Analyst](https://img.shields.io/badge/Jr._Cybersecurity_Analyst-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
-![IT Support](https://img.shields.io/badge/IT_Support-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
+
 
 
 ---
