@@ -54,7 +54,7 @@ Certifications & Badges
   <a href="https://www.linkedin.com/in/maximiliano-rodriguez-arg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-590000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-   <a href="https://mmaxirod8.my.canva.site/" target="_blank">
+   <a href="https://mmaxirod8.my.canva.site/to-s1va" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-590000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
    <a href="https://maximiliano-rodriguez.gitbook.io/maximiliano-rodriguez/" target="_blank">
