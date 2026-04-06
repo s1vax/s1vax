@@ -3,16 +3,25 @@
 ### 📌 About Me
 
  **I am a passionate developer focused on** `Hardware Description Languages` , `Embedded Systems`, `Hardware Hacking`, `Cybersecurity`, **and** `3D Design`. **Currently, I am exploring the performance limits of FPGAs, functional 3D modeling, and key fundamentals of information security.**
+ 
+---
+
+ ### 👥 Communities on San Luis
+ ![Hack The Box](https://img.shields.io/badge/HTB-00AD1A?style=for-the-badge&logo=hackthebox&logoColor=white)
+ ![Microsoft](https://img.shields.io/badge/MLSA-03A69E?style=for-the-badge&logo=microsoft&logoColor=white)
+ ![EkoParty](https://img.shields.io/badge/Ekogroup_San_Luis-A30000?style=for-the-badge&logo=ekoparty&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-B59D04?style=for-the-badge&logo=github&logoColor=white)
+ ![IEEE](https://img.shields.io/badge/IEEE-003169?style=for-the-badge&logo=ieee&logoColor=white)
 
 ---
 
 ### 💻 Tech Stack
 Languages
  
-![VHDL](https://img.shields.io/badge/VHDL-005086?style=for-the-badge&logo=vhdl&logoColor=white)
-![C](https://img.shields.io/badge/c-005086?style=for-the-badge&logo=&logoColor=white)
-![C++](https://img.shields.io/badge/c++-005086?style=for-the-badge&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-005086?style=for-the-badge&logo=python&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-156AAD?style=for-the-badge&logo=vhdl&logoColor=white)
+![C](https://img.shields.io/badge/c-156AAD?style=for-the-badge&logo=&logoColor=white)
+![C++](https://img.shields.io/badge/c++-156AAD?style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-156AAD?style=for-the-badge&logo=python&logoColor=white)
 
 
 Electronics Software 
@@ -33,11 +42,11 @@ Electronics Software
 
 Certifications & Badges
 
-![CCNA](https://img.shields.io/badge/CCNA-FFFFFF?style=for-the-badge&logo=ccna&logoColor=white)
-![CCNP](https://img.shields.io/badge/CCNP-FFFFFF?style=for-the-badge&logo=ccnp&logoColor=white)
-![DEVNET](https://img.shields.io/badge/DEVNET-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
-![Jr. Cybersecurity Analyst](https://img.shields.io/badge/Jr._Cybersecurity_Analyst-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
-![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-333333?style=for-the-badge&logo=ccna&logoColor=white)
+![CCNP](https://img.shields.io/badge/CCNP-333333?style=for-the-badge&logo=ccnp&logoColor=white)
+![DEVNET](https://img.shields.io/badge/DEVNET-333333?style=for-the-badge&logo=solidworks&logoColor=white)
+![Jr. Cybersecurity Analyst](https://img.shields.io/badge/Jr._Cybersecurity_Analyst-333333?style=for-the-badge&logo=solidworks&logoColor=white)
+![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-333333?style=for-the-badge&logo=solidworks&logoColor=white)
 
 
 
@@ -52,13 +61,13 @@ Certifications & Badges
 
 <div align="left">
   <a href="https://www.linkedin.com/in/maximiliano-rodriguez-arg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-590000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
    <a href="https://mmaxirod8.my.canva.site/to-s1va" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-590000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
    <a href="https://maximiliano-rodriguez.gitbook.io/maximiliano-rodriguez/" target="_blank">
-    <img src="https://img.shields.io/badge/Writeups-590000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Writeups-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
 
 <img align="right" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
