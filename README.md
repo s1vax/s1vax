@@ -6,12 +6,15 @@
  
 ---
 
- ### 👥 Communities on San Luis
- ![Hack The Box](https://img.shields.io/badge/HTB-00AD1A?style=for-the-badge&logo=hackthebox&logoColor=white)
- ![Microsoft](https://img.shields.io/badge/MLSA-03A69E?style=for-the-badge&logo=microsoft&logoColor=white)
- ![EkoParty](https://img.shields.io/badge/Ekogroup_San_Luis-A30000?style=for-the-badge&logo=ekoparty&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-B59D04?style=for-the-badge&logo=github&logoColor=white)
- ![IEEE](https://img.shields.io/badge/IEEE-003169?style=for-the-badge&logo=ieee&logoColor=white)
+ ### 👥 Communities on San Luis, Argentina
+  ![Hack The Box](https://img.shields.io/badge/Hack_the_Box-00AD1A?style=for-the-badge&logo=hackthebox&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-B59D04?style=for-the-badge&logo=github&logoColor=white)
+  ![EkoParty](https://img.shields.io/badge/EkoParty-A30000?style=for-the-badge&logo=ekoparty&logoColor=white)
+  ![IEEE](https://img.shields.io/badge/IEEE-003169?style=for-the-badge&logo=ieee&logoColor=white)
+  ![Microsoft](https://img.shields.io/badge/Microsoft-03A69E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+
 
 ---
 
@@ -70,8 +73,9 @@ Certifications & Badges
     <img src="https://img.shields.io/badge/Writeups-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
 
-<img align="right" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="right" alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github&theme=dark" style="padding-right:10px;" />
-<img align="right" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />
-<img align="right" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="right" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="right" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="right" alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github&theme=dark" style="padding-right:10px;" />
+<img align="right" alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />
+<img align="right" alt="Raspberry" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+
