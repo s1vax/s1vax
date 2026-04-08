@@ -6,7 +6,7 @@
  
 ---
 
- ### 👥 Communities on San Luis, Argentina
+ ### 👥 Communities I lead in San Luis, Argentina
   ![Hack The Box](https://img.shields.io/badge/Hack_the_Box-00AD1A?style=for-the-badge&logo=hackthebox&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-B59D04?style=for-the-badge&logo=github&logoColor=white)
   ![EkoParty](https://img.shields.io/badge/EkoParty-A30000?style=for-the-badge&logo=ekoparty&logoColor=white)
