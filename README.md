@@ -54,10 +54,20 @@ Certifications & Badges
 
 
 ---
-### 🕹️ My commits gameplay
+
 ![My GitHub Game](game.gif)
 
----
+
+<br>
+
+<p align="center">
+I fight for the users
+</p>
+
+<p align="center">
+<img width="374" height="211" alt="tron-tron-legacy" src="https://github.com/user-attachments/assets/6311e695-8eb9-4d66-a0e0-83992619bee4" />
+</p>
+
 
 ### 📬 Stay in touch
 
