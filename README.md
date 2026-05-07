@@ -7,12 +7,27 @@
 ---
 
  ### 👥 Communities I lead in San Luis, Argentina
-  ![Hack The Box](https://img.shields.io/badge/Hack_the_Box-00AD1A?style=for-the-badge&logo=hackthebox&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-B59D04?style=for-the-badge&logo=github&logoColor=white)
-  ![EkoParty](https://img.shields.io/badge/EkoParty-A30000?style=for-the-badge&logo=ekoparty&logoColor=white)
-  ![IEEE](https://img.shields.io/badge/IEEE-003169?style=for-the-badge&logo=ieee&logoColor=white)
-  ![Microsoft](https://img.shields.io/badge/Microsoft-03A69E?style=for-the-badge&logo=microsoft&logoColor=white)
 
+<div align="left">
+ <a href="https://ekogroupsanluis.my.canva.site" target="_blank">
+  <img src="https://img.shields.io/badge/Hack the Box-00AD1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+   <a href="https://ekogroupsanluis.my.canva.site" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-B59D04?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://ekogroupsanluis.my.canva.site" target="_blank">
+  <img src="https://img.shields.io/badge/EkoParty-A30000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+ <a href="https://www.instagram.com/ieeesanluis/" target="_blank"> 
+  <img src="https://img.shields.io/badge/IEEE-003169?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+   <a href="https://ekogroupsanluis.my.canva.site" target="_blank"> 
+      <img src="https://img.shields.io/badge/Microsoft-03A69E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 
 
@@ -45,12 +60,26 @@ Electronics Software
 
 Certifications & Badges
 
-![CCNA](https://img.shields.io/badge/CCNA-333333?style=for-the-badge&logo=ccna&logoColor=white)
-![CCNP](https://img.shields.io/badge/CCNP-333333?style=for-the-badge&logo=ccnp&logoColor=white)
-![DEVNET](https://img.shields.io/badge/DEVNET-333333?style=for-the-badge&logo=solidworks&logoColor=white)
-![Jr. Cybersecurity Analyst](https://img.shields.io/badge/Jr._Cybersecurity_Analyst-333333?style=for-the-badge&logo=solidworks&logoColor=white)
-![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-333333?style=for-the-badge&logo=solidworks&logoColor=white)
+<div align="left">
+  <a href="https://www.credly.com/badges/11e82379-a8a9-4472-be77-6bed384e0d39/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/CCNA-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
+<a href="https://www.credly.com/badges/5d4c8fc6-2b8a-47ee-89b3-c294b202ac86/public_url" target="_blank">
+ <img src="https://img.shields.io/badge/CCNP-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.credly.com/badges/b1f6d716-8b13-41ca-8251-507fa3214051/public_url" target="_blank">
+ <img src="https://img.shields.io/badge/DevNet-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.credly.com/badges/80e67603-6fc9-4903-ba04-de371fad9660/public_url" target="_blank">
+ <img src="https://img.shields.io/badge/Jr. Cybersecurity Analyst-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="" target="_blank">
+ <img src="https://img.shields.io/badge/Ethical Hacker-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 
 ---
@@ -91,6 +120,7 @@ I fight for the users
 <img align="right" alt="ESP32" width="30px" src="https://github.com/user-attachments/assets/ce5f1449-19e2-433a-9c00-0b91b3a66a69" style="padding-right:10px;" />
 <img align="right" alt="Quartus" width="30px" src="https://github.com/user-attachments/assets/3bd69e71-704c-420d-a824-f87c0a4c41ff" style="padding-right:10px;" />
 <img align="right" alt="Vivado" width="30px" src="https://github.com/user-attachments/assets/5e77eaca-eca1-45db-b780-181d43a70f00" style="padding-right:10px;" />
+<img align="right" alt="SeedStudio" width="45px" src="https://github.com/user-attachments/assets/27ed7fc9-ffd0-48e1-848b-7ababe3fe727" style="padding-right:10px;" />
 <img align="right" alt="SeedStudio" width="30px" src="https://github.com/user-attachments/assets/41817d31-fdc7-4bb5-9c05-9b19986ea40d" style="padding-right:10px;" />
 
 
