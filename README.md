@@ -118,6 +118,10 @@ I fight for the users
 <img align="right" alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />
 <img align="right" alt="Raspberry" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="right" alt="ESP32" width="30px" src="https://github.com/user-attachments/assets/ce5f1449-19e2-433a-9c00-0b91b3a66a69" style="padding-right:10px;" />
+
+
+<br>
+
 <img align="right" alt="Quartus" width="30px" src="https://github.com/user-attachments/assets/3bd69e71-704c-420d-a824-f87c0a4c41ff" style="padding-right:10px;" />
 <img align="right" alt="Vivado" width="30px" src="https://github.com/user-attachments/assets/5e77eaca-eca1-45db-b780-181d43a70f00" style="padding-right:10px;" />
 <img align="right" alt="SeedStudio" width="45px" src="https://github.com/user-attachments/assets/27ed7fc9-ffd0-48e1-848b-7ababe3fe727" style="padding-right:10px;" />
