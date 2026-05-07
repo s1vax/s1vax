@@ -122,6 +122,8 @@ I fight for the users
 <img align="right" alt="Vivado" width="30px" src="https://github.com/user-attachments/assets/5e77eaca-eca1-45db-b780-181d43a70f00" style="padding-right:10px;" />
 <img align="right" alt="SeedStudio" width="45px" src="https://github.com/user-attachments/assets/27ed7fc9-ffd0-48e1-848b-7ababe3fe727" style="padding-right:10px;" />
 <img align="right" alt="SeedStudio" width="30px" src="https://github.com/user-attachments/assets/41817d31-fdc7-4bb5-9c05-9b19986ea40d" style="padding-right:10px;" />
+<img align="right" alt="SeedStudio" width="30px" src="https://github.com/user-attachments/assets/cbd1cad2-57c4-418d-ba14-d3c86ad762aa" style="padding-right:10px;" />
+
 
 
 
