@@ -77,7 +77,7 @@ Certifications & Badges
  <img src="https://img.shields.io/badge/Jr. Cybersecurity Analyst-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.credly.com/badges/252fbf0a-d99d-4be7-806b-7542f2c99b21/public_url" target="_blank">
  <img src="https://img.shields.io/badge/Ethical Hacker-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
