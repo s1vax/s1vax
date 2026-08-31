@@ -4,15 +4,19 @@
 
 # Electronics, Cybersecurity & 3D Design
 
+<div align="left">
+ 
 ### 📌 About Me
 
  **I am a passionate developer focused on** `Hardware Description Languages` , `Embedded Systems`, `Hardware Hacking`, `Cybersecurity`, **and** `3D Design`. **Currently, I am exploring the performance limits of FPGAs, functional 3D modeling, and key fundamentals of information security.**
  
 ---
 
+<div align="center">
+
  ### 👥 Communities I lead in San Luis, Argentina
 
-<div align="left">
+<div align="center">
  <a href="https://ekogroupsanluis.my.canva.site" target="_blank">
   <img src="https://img.shields.io/badge/Hack the Box-00AD1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -37,6 +41,8 @@
 
 ---
 
+<div align="center">
+ 
 ### 💻 Tech Stack
 Languages
  
@@ -64,7 +70,7 @@ Electronics Software
 
 Certifications & Badges
 
-<div align="left">
+<div align="center">
   <a href="https://www.credly.com/badges/11e82379-a8a9-4472-be77-6bed384e0d39/public_url" target="_blank">
     <img src="https://img.shields.io/badge/CCNA-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -101,7 +107,8 @@ I fight for the users
 <img width="374" height="211" alt="tron-tron-legacy" src="https://github.com/user-attachments/assets/6311e695-8eb9-4d66-a0e0-83992619bee4" />
 </p>
 
-
+<div align="left">
+ 
 ### 📬 Stay in touch
 
 
