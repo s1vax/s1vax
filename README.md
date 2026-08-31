@@ -1,4 +1,8 @@
-# 📟 Maximiliano Rodriguez | Electronics, Cybersecurity & 3D Design
+<div align="center">
+
+![Maximiliano Rodriguez Header](https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Maximiliano%20Rodriguez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+# Electronics, Cybersecurity & 3D Design
 
 ### 📌 About Me
 
@@ -131,4 +135,8 @@ I fight for the users
 
 
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=140&section=footer"/>
+
+</div>
