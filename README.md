@@ -47,9 +47,11 @@
 Languages
  
 ![VHDL](https://img.shields.io/badge/VHDL-156AAD?style=for-the-badge&logo=vhdl&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-156AAD?style=for-the-badge&logo=verilog&logoColor=white)
 ![C](https://img.shields.io/badge/c-156AAD?style=for-the-badge&logo=&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-156AAD?style=for-the-badge&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-156AAD?style=for-the-badge&logo=python&logoColor=white)
+![Ladder](https://img.shields.io/badge/Ladder-156AAD?style=for-the-badge&logo=ladder&logoColor=white)
 
 
 Electronics Software 
